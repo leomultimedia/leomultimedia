@@ -31,6 +31,20 @@ I’m a **Senior Solution Architect** with 18+ years of diverse experience acros
 
 ---
 
+## 🗂️ Domain Expertise & Industry Tags
+
+| Domain | Description | Tags |
+|--------|-------------|----------|
+| **Cybersecurity & Risk** | Enterprise security, SOC/SIEM, OSINT, ISO/NIST compliance | `#Cybersecurity`, `#RiskManagement`, `#ISO27001`, `#PenTesting`, `#SOC` |
+| **Cloud & DevOps** | Azure/AWS/GCP deployments, CI/CD, IAC, hybrid cloud infra | `#CloudArchitect`, `#AzureDevOps`, `#AWS`, `#GCP`, `#DevOps` |
+| **OT/ICS/SCADA Security** | Securing industrial & utility networks and IoT systems | `#OTSecurity`, `#ICS`, `#SCADA`, `#CriticalInfrastructure` |
+| **AI, ML & RPA** | Intelligent automation using UiPath, Python, NLP | `#RPA`, `#AI`, `#MachineLearning`, `#UiPath`, `#Automation` |
+| **IT Audits & Compliance** | Automated GRC frameworks for enterprises | `#ITAudit`, `#Compliance`, `#GDPR`, `#GRC`, `#DigitalGovernance` |
+| **Data Science & Analytics** | Power BI dashboards, business intelligence | `#DataAnalytics`, `#PowerBI`, `#SQL`, `#Tableau`, `#Insights` |
+| **Education & Mentoring** | Trainer in cybersecurity, RPA, AI, and cloud | `#TechMentor`, `#CyberTrainer`, `#Upskilling`, `#AITraining` |
+
+---
+
 ## 🔗 GitHub Organizations
 
 I actively contribute to and collaborate with the following organizations:
