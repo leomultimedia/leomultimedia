@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Dr. Libin Pallikunnel Kurian
 
-🚀 Innovative Solution Architect | 🔐 Cybersecurity Expert | ☁️ Cloud Strategist  
+🧠 Principal IT Consultant 🚀 Innovative Solution Architect | 🔐 Cybersecurity Expert | ☁️ Cloud Strategist  
 🤖 AI & RPA Evangelist | 📊 Data & Digital Transformation Leader
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-libin-pallikunnel-kurian-88741530) 
@@ -85,7 +85,7 @@ I actively contribute to and collaborate with the following organizations:
 
 ---
 
-## 🎯 SEO Tags for Discovery
+## 🎯 Discovery Me
 
 `#SolutionArchitect` `#CybersecurityExpert` `#CloudEngineer` `#OTSecurity`  
 `#DigitalTransformation` `#RPAUiPath` `#AIAnalytics` `#DevOpsEngineer`  
